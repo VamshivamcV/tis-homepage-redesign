@@ -24,7 +24,7 @@ A modern single-page landing experience for Tula's International School, redesig
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tis-homepage-redesign.git
+   git clone https://github.com/VamshivamcV/tis-homepage-redesign.git
    cd tis-homepage-redesign
    ```
 
