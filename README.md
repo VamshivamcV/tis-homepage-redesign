@@ -20,38 +20,10 @@ A modern single-page landing experience for Tula's International School, redesig
 4. Theme Toggle: polished light/dark mode switch with local storage persistence.
 5. Responsive Layout: optimized for mobile, tablet, and desktop screens.
 
-## 📦 Getting Started Locally
+## Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/VamshivamcV/tis-homepage-redesign.git
-   cd tis-homepage-redesign
-   ```
+First, run the development server:
 
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Run the development server:
-   ```bash
-   npm run dev
-   ```
-
-4. Open the app in your browser:
-   ```text
-   http://localhost:3000
-   ```
-
-## 🧩 Component Architecture Overview
-- components/ui/ - reusable UI controls such as theme toggle
-- components/layout/ - navigation and page shell elements
-- components/sections/ - hero, stats, academic, campus, and admissions blocks
-- components/animation/ - animated UI helpers and motion wrappers
-- data/ - static school content and navigation metadata
-
-## ✅ Build Check
-Run this before submission:
 ```bash
 npm run build
 ```
